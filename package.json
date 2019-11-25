@@ -1,0 +1,26 @@
+{
+  "name": "csv_project_q2",
+  "version": "1.0.0",
+  "description": "crypto transaction csv file read",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanishka304/crypto_project.git"
+  },
+  "keywords": [
+    "crypto"
+  ],
+  "author": "kanishka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kanishka304/crypto_project/issues"
+  },
+  "homepage": "https://github.com/kanishka304/crypto_project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
