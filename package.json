@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev" : "nodemon index.js"
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,17 @@
   },
   "homepage": "https://github.com/kanishka304/crypto_project#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "chalk": "^3.0.0",
+    "cli-select": "^1.1.1",
+    "csv-parser": "^2.3.2",
+    "csvtojson": "^2.0.10",
+    "encode": "^1.0.1",
+    "enquirer": "^2.3.2",
+    "express": "^4.17.1",
+    "inquirer": "^7.0.0",
+    "node-csv-query": "^0.1.0",
+    "prompts": "^2.3.0",
+    "request": "^2.88.0",
+    "select-shell": "^1.1.3"
   }
 }
